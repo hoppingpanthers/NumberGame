@@ -205,7 +205,7 @@ public class NumberGame {
 				case 4:
 					usrStr = "exit";
 				default:
-					System.out.print("\nNot an option!");
+					System.out.print("\nNot an option!!");
 				}
 			}
 		} else {
